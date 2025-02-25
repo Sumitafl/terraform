@@ -3,6 +3,6 @@ resource "aws_instance" "ec2" {
   instance_type = "t2.micro"
 
  tags = {
- Name = "Sumitgitserver26"
+ Name = "Sumitgitserver27"
   }
 }
